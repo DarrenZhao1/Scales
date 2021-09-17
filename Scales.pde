@@ -5,25 +5,28 @@ color b1, b2, c1, c2;
 void setup() {
   size(495, 515);  //feel free to change the size
   noLoop(); //stops the draw() function from repeating
+  
   int p = (int) (Math.random()*4);
   System.out.println (p);
+  
+  //variations of colors
   if (p == 1){
-  c1 = color (204, 0, 51);
-  c2 = color (51, 156, 204);
-}
-  if (p == 0){
-  c1 = color (232, 179, 110);
-  c2 = color (101, 65, 175);
+    c1 = color (204, 0, 51);
+    c2 = color (51, 156, 204);
   }
-    if (p == 2){
+  if (p == 0){
+    c1 = color (232, 179, 110);
+    c2 = color (101, 65, 175);
+  }
+  if (p == 2){
   c1 = color (245, 128, 37);
   c2 = color (245, 224, 80);
   }
-     if (p == 3){
-  c1 = color (232, 6, 203);
-  c2 = color (67, 28, 83);
+  if (p == 3){
+    c1 = color (232, 6, 203);
+    c2 = color (67, 28, 83);
   }
-  }
+}
 
 void draw() {
     // Background
