@@ -2,7 +2,7 @@
 Scales
 ======
 
-In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The particular type of scale you simulate is up to you. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. You may find slides 153 - 167 of the [apjavaProcessing slide presentation](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) helpful in completing this assignment.   
+In this project you will create a function that simulates a scale and then use nested loops to make a pattern of scales. The particular type of scale you simulate is up to you. Reptiles, fish, armor, mermaids and dragons are all examples of things with scales. You may find slides 153 - 176 of the [apjavaProcessing slide presentation](https://docs.google.com/presentation/d/1sqbareaFmF9fMcp0XOl3hRO6hAlrU5WIaj4V-Kd3eDI/edit?usp=sharing) helpful in completing this assignment.   
 
 Program Requirements
 --------------------
@@ -22,11 +22,30 @@ Suggested steps to start the assignment
 
 Extensions
 -----------------------
-Random variations in size and color are common in nature and will give your pattern a more realistic appearance. [Feathers and hair are evolutionary developments of scales](https://www.science.org/news/2016/06/human-hair-bird-feathers-came-reptile-scales) and could be simulated in this project as well.
+Random variations in size and color are common in nature and will give your pattern a more realistic appearance. [Feathers and hair are evolutionary developments of scales](https://www.science.org/news/2016/06/human-hair-bird-feathers-came-reptile-scales) and could be simulated in this project as well. [Processing has a 3d mode](https://processing.org/tutorials/p3d). Another extension would be to make a [3d version of scales](https://simart.github.io/Scales/).
 
 
 Samples of Student Work
 -----------------------
+[Joanne](https://joannechenn.github.io/Scales/)   
+[Kenny](https://kennych13.github.io/Scales/)   
+[Johnny](https://jlin202.github.io/Scales/)   
+[Christina](https://christina88chan.github.io/Scales/)   
+[Chris](https://tophthebro.github.io/Scales/)   
+[Wing](https://wilai3.github.io/Scales/)   
+[Matthew](https://malee8.github.io/Scales/)   
+[Max](https://max-2023.github.io/Scales/)   
+[Joshua](https://jopaza21.github.io/Scales/)   
+[Eric](https://erchan3.github.io/Scales/)   
+[Pradipti](https://pradiptilama.github.io/BluBox/)   
+[Tiffany](https://tilouie2.github.io/Scales/)   
+[Jimmy](https://jimmy1433223.github.io/Scales/)   
+[Tiffay](https://tiffanyt11.github.io/Scales/)   
 [Andrew](https://antan2.github.io/Scales/)   
+[Tyler](https://ty237.github.io/Scales/)   
+[Michelle](https://mitan4.github.io/Scales/)   
+[Damian](https://dabogdon.github.io/Scales/)   
+[Albert](https://alshi31.github.io/Scales/)   
 [Keneth](https://kenethl.github.io/Scales/)    
 [Alex](https://alexhackathon.github.io/Scales/)   
+[Jocelyn](https://jxcelynyu.github.io/Scales/)   
