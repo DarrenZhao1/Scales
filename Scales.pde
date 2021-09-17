@@ -27,8 +27,6 @@ void setup() {
 
 void draw() {
     // Background
-  //setGradient(0, 0, width/2, height, b1, b2, X_AXIS);
-  //setGradient(width/2, 0, width/2, height, b2, b1, X_AXIS);
   setGradient(0, 0, 495, 515, c1, c2, Y_AXIS);
   setGradient(0, 0, 495, 515, c2, c1, X_AXIS);
   scale(0, 0);
@@ -57,14 +55,4 @@ void setGradient(int x, int y, float w, float h, color c1, color c2, int axis ) 
       line(x, i, x+w, i);
     }
   }  
- //else 
-  
-  /*if (axis == X_AXIS) {  // Left to right gradient
-    for (int i = x; i <= x+w; i++) {
-      float inter = map(i, x, x+w, 0, 1);
-      color c = lerpColor(c1, c2, inter);
-      stroke(c);
-      line(i, y, i, y+h);
-    }
-  }
-*/}
+
