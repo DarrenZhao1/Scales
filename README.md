@@ -27,8 +27,19 @@ Random variations in size and color are common in nature and will give your patt
 
 Samples of Student Work
 -----------------------
+[Curtis](https://curtischen1.github.io/Scales/)   
 [Joanne](https://joannechenn.github.io/Scales/)   
+[Pansy](https://pakuang.github.io/Scales/)   
+[Allison](https://apcsci.github.io/Scales/)   
+[Irisa](https://irisac415.github.io/Scales/)   
+[Viva](https://vivavoong.github.io/Scales/)   
+[Jonah](https://jonahwaldman.github.io/Scales/)   
+[Paolo](https://paolo415.github.io/Scales/)   
+[Chris](https://chgee.github.io/Scales/)   
+[William](https://williamsgithubaccount.github.io/JigsawPuzzle/)   
+[ERic](https://desolaterakan.github.io/Scales/)   
 [Kenny](https://kennych13.github.io/Scales/)   
+[Bruno](https://bruno-415.github.io/Scales/)   
 [Johnny](https://jlin202.github.io/Scales/)   
 [Christina](https://christina88chan.github.io/Scales/)   
 [Chris](https://tophthebro.github.io/Scales/)   
@@ -39,6 +50,7 @@ Samples of Student Work
 [Eric](https://erchan3.github.io/Scales/)   
 [Pradipti](https://pradiptilama.github.io/BluBox/)   
 [Tiffany](https://tilouie2.github.io/Scales/)   
+[Koey](https://koeychan.github.io/Scales/)   
 [Jimmy](https://jimmy1433223.github.io/Scales/)   
 [Tiffay](https://tiffanyt11.github.io/Scales/)   
 [Andrew](https://antan2.github.io/Scales/)   
